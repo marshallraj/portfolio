@@ -177,7 +177,6 @@ body::-webkit-scrollbar-thumb {
 .section { padding-block: var(--section-padding); }
 
 .img-holder {
-  aspect-ratio: var(--width) / var(--height);
   background-color: var(--light-gray);
   overflow: hidden;
 }
