@@ -28,9 +28,9 @@
   --dim-gray: hsl(0, 0%, 44%);
   --cultured: hsl(0, 0%, 98%);
   --black_10: hsl(0, 0%, 0%, 0.1);
-  --black_20: hsl(0, 0%, 0%, 0.2);
+  --black_20: hsl(0deg 0% 77% / 20%);
   --black_30: hsl(0, 0%, 0%, 0.3);
-  --black_70: hsl(0, 0%, 0%, 0.7);
+  --black_70: hsl(216, 100%, 53%, 0.7);
   --white_10: hsl(0, 0%, 100%, 0.1);
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
